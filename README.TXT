@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+# Multi-Player Jeopardy Game
+COMP 3607 – Object-Oriented Programming II Group Project  
+This repository contains the complete source code, documentation, and wiki for the Jeopardy Game.
+
+See the **Wiki** for full documentation.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
