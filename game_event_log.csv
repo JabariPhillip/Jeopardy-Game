@@ -1,0 +1,7 @@
+Case_ID,Player_ID,Activity,Timestamp,Category,Question_Value,Player_Answer,Result,Final_Score
+GAME1763818854065,0,Start Game,2025-11-22T09:40:54.0685227,-,0,-,-,0
+GAME1763818854065,0,File Loaded Successfully,2025-11-22T09:41:03.9913063,-,0,-,Success,0
+GAME1763818854065,1,Player Joined,2025-11-22T09:41:12.4934565,-,0,-,Ready,0
+GAME1763818854065,2,Player Joined,2025-11-22T09:41:12.4964488,-,0,-,Ready,0
+GAME1763818854065,1,Select Question,2025-11-22T09:43:06.4229245,file handling,100,-,-,0
+GAME1763818854065,1,Answer Question,2025-11-22T09:43:18.3720108,File Handling,100,A,Correct,100
